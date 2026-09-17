@@ -53,10 +53,10 @@ BAMSE-pQTL-analysis/
     ├── 02_gwas_association.sh     # Primary PLINK2 association mapping setup
     ├── 03_meta_analysis.sh        # Summary statistics integration logic
     └── 04_annotation.py           # Cis/trans classification criteria
+```
 
 ---
 ## Workflow Summary
-```text
 
 Phenotype Preprocessing: Inverse normal transformation (INT) applied to ProtPQN-standardized Olink protein levels.
 
