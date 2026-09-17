@@ -58,7 +58,7 @@ Email: ashish.kumar@ki.se
 If you use this workflow or cite the underlying analysis, please cite our preprint:
 
 > **Proteogenomic pQTL Analysis in the BAMSE Cohort**  
-> Ashish Kumar et al.  
+> Annika Bendes, Sophia Björkander et al.  
 > *medRxiv* (2026). DOI: [10.64898/2026.01.16.26344184v1](https://www.medrxiv.org/content/10.64898/2026.01.16.26344184v1)
 
 License
