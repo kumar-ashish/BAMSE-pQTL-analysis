@@ -49,5 +49,17 @@ GCTA (v1.94.1)
 Data Availability
 Individual-level clinical and genomic data from the BAMSE cohort are subject to ethical and legal restrictions under GDPR to protect participant confidentiality. Data access requests for validation purposes may be submitted to the BAMSE steering committee.
 
+## Author & Citation
+
+**Ashish Kumar**  
+Karolinska Institutet  
+Email: ashish.kumar@ki.se  
+
+If you use this workflow or cite the underlying analysis, please cite our preprint:
+
+> **Proteogenomic pQTL Analysis in the BAMSE Cohort**  
+> Ashish Kumar et al.  
+> *medRxiv* (2026). DOI: [10.64898/2026.01.16.26344184v1](https://www.medrxiv.org/content/10.64898/2026.01.16.26344184v1)
+
 License
 This project is licensed under the European Union Public Licence v1.2 (EUPL-1.2) - see the LICENSE file for details.
