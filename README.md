@@ -52,7 +52,9 @@ BAMSE-pQTL-analysis/
     ├── 01_phenotype_prep.R        # Rank-based INT transformation logic
     ├── 02_gwas_association.sh     # Primary PLINK2 association mapping setup
     ├── 03_meta_analysis.sh        # Summary statistics integration logic
-    └── 04_annotation.py           # Cis/trans classification criteria
+    └── 04_gcta_cojo.R             # Post-GWAS GCTA-COJO conditional analysis
+    └── 05_annotation.py           # Cis/trans classification criteria
+
 ```
 
 ---
