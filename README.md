@@ -1,7 +1,7 @@
 # BAMSE Proteogenomic pQTL Analysis Framework
 
 [![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1374656932.svg)](https://doi.org/10.5281/zenodo.22817837)
 
 The **BAMSE-pQTL-analysis** framework contains the analytical pipeline, statistical models, and command-line scripts used for genome-wide protein quantitative trait loci (pQTL) mapping, meta-analysis, and functional characterization in the BAMSE cohort.
 
