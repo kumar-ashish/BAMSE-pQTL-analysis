@@ -1,0 +1,12 @@
+*.out
+*.error
+*.log
+*.bed
+*.bim
+*.fam
+*.vcf.gz
+*.vcf.gz.tbi
+*.tsv
+*.csv
+.Rhistory
+__pycache__/
