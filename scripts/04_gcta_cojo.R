@@ -1,1 +1,2 @@
-# Cis/trans pQTL signal classification and annotation script
+# GCTA-COJO conditional & joint association analysis wrapper
+# Parameters defined in config/analysis_params.yaml
