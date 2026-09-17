@@ -1,0 +1,10 @@
+# BAMSE pQTL Analysis Parameters
+# Statistical cutoffs and model parameters used in the manuscript
+
+association:
+  maf_threshold: 0.01
+  confidence_interval: 0.95
+  model: "linear"
+
+annotation:
+  cis_window_kb: 1000  # 1 Mb window for cis-pQTL definition
