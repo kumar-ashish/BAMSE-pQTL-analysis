@@ -7,7 +7,7 @@ The **BAMSE-pQTL-analysis** framework contains the analytical pipeline, statisti
 ---
 
 
-> **Proteogenomic pQTL Analysis in the BAMSE Cohort**  
+> **Molecular profiling of repeated self-sampled blood reveals dynamic immune phenotypes in young adults**  
 > **Authors:** Annika Bendes1#, Sophia Björkander2#, Maura M. Kere2, Simon Kebede Merid2, **Ashish Kumar**2, Leo Dahl1, Zhebin Yu2, Amelie Vogt1, Changil Kim3, Qiang Pan-Hammarström4, Anna Bergström56, Inger Kull26, Anne-Sophie Merritt6, Sandra Ekström267, Alexandra Lövquist7, Ben Murrell3, Niclas Roxhed89, Erik Melén26* and Jochen M. Schwenk16*
 
 > **Affiliations:** 1. Department of Protein Science, SciLifeLab, KTH Royal Institute of Technology, Solna, Sweden
